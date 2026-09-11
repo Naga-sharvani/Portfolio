@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0b0f19"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.5"/>
+  <!-- Stylized Monogram N -->
+  <path d="M19 46 V18 H26 L38 38 V18 H45 V46 H38 L26 26 V46 Z" fill="#ffffff"/>
+  <circle cx="45" cy="46" r="3" fill="#38bdf8"/>
+</svg>
